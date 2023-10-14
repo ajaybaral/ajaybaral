@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+   box-shadow: rgba(19,15,29,0.7)17px 4px 8px;
+   
+}
+.search-bar{
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #211F2F;
+    color: white;
+}
+.main-container{
+    padding-top: 20px;
+}
+.footer-text{
+    text-align: center;
+}
+.nav-link{
+    color: #ffffff;
+}
+.input-search{
+    width: 70%;
+    height: 44px;
+    padding: 0px 23px;
+    outline: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 0px 10px;
+    font-size: 14px;
+}
+.fa-magnifying-glass{
+    font-size: 2rem;
+    color: #fff;
+}
+#welcome-msg{
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+}
+.website-compare{
+    margin: 45px 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.card{
+    margin: 0 23px;
+}
+.btn-cart{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+.card-body{
+    margin: auto;
+}
+.card-body :hover{
+    color: #2716e8;
+}
+.open-in-particular-web{
+   color: black;
+   text-decoration: none;
+}
+
+@media (max-width:1080px){
+    .website-compare{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .card{
+        margin: 20px 0px;
+        
+    }
+}
