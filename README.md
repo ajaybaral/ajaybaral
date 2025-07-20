@@ -31,8 +31,8 @@ Beyond academics and work, I actively **participate in hackathons and contests**
 | Project Name | Description | Tech Stack | Status | More Info |
 |-------------|-------------|------------|--------|-----------|
 | **Codingpeer** | A platform to help developers find coding partners and collaborate globally. | React, Firebase, Bootstrap | Completed | [Know More](https://docs.google.com/document/d/1zLnrslIAHrNhGUnz19i4geDIjRlwXXubk9R3CR4d7cU/edit?usp=sharing) |
-| **Society Finance Management System** | A full-stack solution for managing society finances with secure authentication and audit-ready reports. | Spring Boot, React, MySQL, JWT | Completed | [Know More](https://docs.google.com/document/d/1Rx2ty7P9X-XrZ9wUuoP-pXHtnz57gqR8usIACd9EBYI/edit?usp=sharing) |
-| **Constitutional AI Chatbot** | AI-powered chatbot using Mistral-7B for intelligent conversations and article-based queries. | React, Node.js, MongoDB, Firebase | Completed | [Know More](https://docs.google.com/document/d/1K-LTq3XryjIPmVbhVND0o27JOETyU58s100DRQWR0LU/edit?usp=sharing) |
+| **Society Finance Management System** | A full-stack solution for managing society finances with secure authentication and audit-ready reports. | Spring Boot, React, MySQL, JWT | Completed | [Know More]() |
+| **Constitutional AI Chatbot** | AI-powered chatbot using Mistral-7B for intelligent conversations and article-based queries. | React, Node.js, MongoDB, Firebase | Completed | [Know More]() |
 
 ---
 
