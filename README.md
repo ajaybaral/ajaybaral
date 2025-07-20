@@ -38,7 +38,7 @@ Beyond academics and work, I actively **participate in hackathons and contests**
 
 ### 🔗 Important Links
 
-- **Portfolio**: *Coming Soon*  
+- **Portfolio**: *https://ajaybaral.vercel.app/*  
 - **Resume**: [View Here](#)  
 - **LinkedIn**: [ajay-baral](https://www.linkedin.com/in/ajay-baral-035694273/)  
 - **GitHub**: [ajaybaral](https://github.com/ajaybaral)
