@@ -39,7 +39,7 @@ Beyond academics and work, I actively **participate in hackathons and contests**
 ### 🔗 Important Links
 
 - **Portfolio**: *https://ajaybaral.vercel.app/*  
-- **Resume**: [View Here](#)  
+- **Resume**: [View Here](https://drive.google.com/file/d/1pWCv5x4H40AkW1XkC_bUk6LaTGjOOxbB/view?usp=sharing)  
 - **LinkedIn**: [ajay-baral](https://www.linkedin.com/in/ajay-baral-035694273/)  
 - **GitHub**: [ajaybaral](https://github.com/ajaybaral)
 
@@ -48,4 +48,4 @@ Beyond academics and work, I actively **participate in hackathons and contests**
     <img src="https://img.shields.io/badge/-Let's%20Connect!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/8069a657-130e-4462-a5b5-be2ffec600a3" />
+
